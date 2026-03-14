@@ -4,9 +4,15 @@ url: "https://alekxgalay.github.io"
 baseurl: "/gazdinya-blog"
 theme: minima
 lang: uk
-author:
-  name: "Газдиня"
-  url: "https://gazdinya.com"
+author: "Газдиня"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+minima:
+  social_links:
+    - { platform: telegram, user_url: "https://t.me/Gazdinya_bot" }
+
+footer_links:
+  - title: "gazdinya.com"
+    url: "https://gazdinya.com"
