@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Продажі"
+description: "Статті про продажі на маркетплейсах, оптимізацію карток товарів, цінові стратегії."
 permalink: /categories/sales/
 ---
 

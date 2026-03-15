@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SEO"
+description: "Статті про SEO для інтернет-магазинів: технічне SEO, ключові слова, Google Search Console."
 permalink: /categories/seo/
 ---
 

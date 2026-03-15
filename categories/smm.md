@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Соцмережі"
+description: "Статті про SMM для e-commerce: Instagram, TikTok, Threads, Telegram, контент-стратегії."
 permalink: /categories/smm/
 ---
 

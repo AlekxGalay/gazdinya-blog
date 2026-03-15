@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Автоматизація"
+description: "Статті про автоматизацію e-commerce: AI-інструменти, Make.com, no-code рішення."
 permalink: /categories/automation/
 ---
 
