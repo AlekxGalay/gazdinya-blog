@@ -1,11 +1,11 @@
 ---
-title: "CI Test Post DELETE ME"
-description: "CI test post"
+title: ""
+description: "Updated CI test"
 date: 2026-03-15
-tags: [test, ci]
+tags: [test, ci, updated]
 category: "automation"
 ---
 
-# CI Test Post DELETE ME
+# 
 
-This is an automated test post.
+Updated content for CI test.
