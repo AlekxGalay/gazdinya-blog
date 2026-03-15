@@ -1,5 +1,5 @@
 title: "Газдиня — AI для бізнесу"
-description: "Блог про автоматизацію e-commerce з AI. Поради, кейси, SEO-статті для підприємців."
+description: "Блог про автоматизацію e-commerce з AI. Поради, кейси, статті з SEO, продажів та SMM для підприємців."
 url: "https://alekxgalay.github.io"
 baseurl: "/gazdinya-blog"
 theme: minima
@@ -9,6 +9,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+header_pages:
+  - categories/seo.md
+  - categories/sales.md
+  - categories/smm.md
+  - categories/automation.md
+  - about.md
+
 minima:
   social_links:
     - { platform: telegram, user_url: "https://t.me/Gazdinya_bot" }
@@ -16,3 +23,11 @@ minima:
 footer_links:
   - title: "gazdinya.com"
     url: "https://gazdinya.com"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      category: "general"
