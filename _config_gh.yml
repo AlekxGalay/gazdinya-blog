@@ -1,14 +1,13 @@
 title: "Газдиня — AI для бізнесу"
 description: "Блог про автоматизацію e-commerce з AI. Поради, кейси, статті з SEO, продажів та SMM для підприємців."
-url: "https://gazdinya.com"
-baseurl: "/blog"
+url: "https://alekxgalay.github.io"
+baseurl: "/gazdinya-blog"
 theme: minima
 lang: uk
 author: "Газдиня"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 header_pages:
   - categories/seo.md
