@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<!-- Breadcrumbs -->
+<nav aria-label="Хлібні крихти" style="font-size:0.8rem;margin-bottom:16px;color:#8b949e;">
+  <a href="{{ site.baseurl }}/" style="color:#6C3AED;">Блог</a>
+  → <span style="color:#A1A1AA;">{{ page.title }}</span>
+</nav>
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
