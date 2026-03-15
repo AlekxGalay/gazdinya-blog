@@ -8,17 +8,12 @@ permalink: /categories/automation/
 
 Статті про AI-інструменти, no-code рішення, автоматизацію бізнес-процесів, чат-ботів та оптимізацію роботи.
 
-{% assign posts = site.posts | where: "category", "automation" %}
-{% if posts.size == 0 %}
-{% assign posts = site.posts | where_exp: "post", "post.tags contains 'автоматизація' or post.tags contains 'ai'" %}
-{% endif %}
-
 <ul class="post-list">
-{% for post in posts %}
+{% for post in site.posts %}{% if post.category == "automation" %}
   <li>
     <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
     <p>{{ post.description }}</p>
   </li>
-{% endfor %}
+{% endif %}{% endfor %}
 </ul>
