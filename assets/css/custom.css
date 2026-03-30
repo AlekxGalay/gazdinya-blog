@@ -1,14 +1,14 @@
 /* Gazdinya Blog — Dark Theme matching gazdinya.com */
 :root {
-  --primary: #6C3AED;
-  --primary-dark: #5B21B6;
-  --accent: #10B981;
-  --bg: #09090B;
-  --bg-card: #18181B;
-  --bg-hover: #27272A;
-  --text: #FAFAFA;
-  --text-secondary: #A1A1AA;
-  --border: #27272A;
+  --primary: #7c5cfc;
+  --primary-dark: #6344e0;
+  --accent: #00c2ff;
+  --bg: #0a0a0f;
+  --bg-card: #12121a;
+  --bg-hover: #1a1a26;
+  --text: #eeeef0;
+  --text-secondary: #a0a0b8;
+  --border: rgba(255,255,255,0.08);
 }
 
 body {
@@ -19,7 +19,7 @@ body {
 
 /* Header / Site header */
 .site-header {
-  background: rgba(9, 9, 11, 0.95) !important;
+  background: rgba(10, 10, 15, 0.95) !important;
   border-bottom: 1px solid var(--border) !important;
   backdrop-filter: blur(12px);
 }
@@ -41,7 +41,7 @@ body {
 /* Links */
 a { color: var(--primary) !important; }
 a:hover { color: var(--accent) !important; }
-a:visited { color: #8B5CF6 !important; }
+a:visited { color: #9b7cfc !important; }
 
 /* Page content */
 .page-content { background: var(--bg) !important; }
