@@ -4,15 +4,11 @@ url: "https://gazdinya.com"
 baseurl: "/blog"
 theme: minima
 lang: uk
-author:
-  name: "Газдиня"
+author: "Газдиня"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
-twitter:
-  card: summary_large_image
 
 header_pages:
   - categories/seo.md
@@ -36,4 +32,3 @@ defaults:
     values:
       layout: "post"
       category: "general"
-      image: "https://gazdinya.com/og-image.png"
