@@ -1,7 +1,7 @@
 ---
 title: "Вірусний Reels для e-commerce: формула, що працює"
 description: "Як зробити Reels, який продає: хук, монтаж, тренди та реальні формули для українських інтернет-магазинів і ФОП."
-date: 2025-01-28
+date: 2026-03-25
 tags: [reels, instagram, smm, вірусний контент, e-commerce]
 category: "smm"
 author: "Команда Газдиня"

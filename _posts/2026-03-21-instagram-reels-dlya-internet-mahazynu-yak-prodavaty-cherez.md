@@ -1,7 +1,7 @@
 ---
 title: "Instagram Reels для інтернет-магазину: як продавати через відео"
 description: "Практичний гід для власників e-commerce: як знімати Reels, що реально приводять покупців, без великих бюджетів та команди."
-date: 2025-01-28
+date: 2026-03-21
 tags: [instagram, reels, відео-контент, e-commerce, smm]
 category: "smm"
 author: "Команда Газдиня"

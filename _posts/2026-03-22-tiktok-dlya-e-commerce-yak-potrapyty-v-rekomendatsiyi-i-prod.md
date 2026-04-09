@@ -1,7 +1,7 @@
 ---
 title: "TikTok для e-commerce: як продавати через FYP"
 description: "Як підприємцю потрапити в рекомендації TikTok і перетворити перегляди на продажі — алгоритм, контент і реальні приклади."
-date: 2025-01-28
+date: 2026-03-22
 tags: [tiktok, smm, продажі, контент, e-commerce]
 category: "sales"
 author: "Команда Газдиня"
